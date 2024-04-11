@@ -1,5 +1,5 @@
 # Analyse
-J'ai commencé par faire une analyse du fichier : 
+J'ai commencé par faire une analyse du fichier :
 ```sh
 file aaarg.txt # ou alors cat aaarg.txt
 ```
@@ -8,7 +8,7 @@ Je remarque ici que c'est un fichier ***".elf"*** :
 aaarg.txt: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f5b07c01242cc5987bed7730c2762ae0491b5ddc, stripped
 ```
 # Solution
-Après quelques recherche. J'ai trouvé l'utilitaire ***readelf*** qui va me permettre de faire de l'analyse sur ce fichier afin de trouver le flag.
+Après quelques recherches, j'ai trouvé l'utilitaire ***readelf*** qui va me permettre de faire de l'analyse sur ce fichier afin de trouver le flag.
 Je commence donc par faire une analyse des sections du fichier :
 ```sh
 readelf -S aaarg.txt
