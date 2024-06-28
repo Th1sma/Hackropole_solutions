@@ -12,8 +12,8 @@ repos:
       - id: flake8
         additional_dependencies: [pycodestyle]
 
-#repos:
-#-   repo: https://github.com/koalaman/shellcheck-precommit
-#    rev: v0.10.0
-#    hooks:
-#    -   id: shellcheck
+repos:
+-   repo: https://github.com/koalaman/shellcheck-precommit
+    rev: v0.10.0
+    hooks:
+    -   id: shellcheck
