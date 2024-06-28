@@ -28,7 +28,7 @@ J'ai donc enlevé les commentaires afin de me rendre sur le lien. Une fois sur l
 <html>
     <head>
         <title>Bienvenue à Babel Web!</title>
-    </head>    
+    </head>
     <body>
         <h1>Bienvenue à Babel Web!</h1>
         La page est en cours de développement, merci de revenir plus tard.

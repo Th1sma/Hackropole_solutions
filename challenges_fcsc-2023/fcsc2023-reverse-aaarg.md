@@ -86,7 +86,7 @@ Je vais donc commencer par analyser certains sections qui me semble intéressant
 - .text
 - .data
 - .rodata
-  
+
 Je trouve donc le flag dans la section ***".rodata"*** via cette commande :
 ```sh
 readelf -x .rodata aaarg.txt
