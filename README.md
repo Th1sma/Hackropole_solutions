@@ -8,7 +8,6 @@ Ce dépôt contient les solutions utilisés pour résoudre les épreuves des Cha
 - **challenges_fcsc-2022/** : Solutions pour les épreuves du FCSC Hackropole 2021.
 - **challenges_fcsc-2023/** : Solutions pour les épreuves du FCSC Hackropole 2022.
 - **challenges_fcsc-2024/** : Solutions pour les épreuves du FCSC Hackropole 2022.
-- **utilities/** : Scripts et utilitaires utilisés pour résoudre les épreuves.
 
 ## 🚀 Comment utiliser ce dépôt
 
