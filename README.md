@@ -1,3 +1,5 @@
+### Toujours en cours... 💻
+
 # Solutions pour le Challenge FCSC Hackropole 💻
 
 Ce dépôt contient les solutions utilisés pour résoudre les épreuves des Challenges FCSC Hackropole.
