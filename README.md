@@ -1,19 +1,19 @@
-### Toujours en cours... ⬇️
+### Still in progress... ⬇️
 
-# Solutions pour le Challenge FCSC Hackropole 💻
+# Solutions for the FCSC Hackropole Challenge 💻
 
-Ce dépôt contient les solutions utilisés pour résoudre les épreuves des Challenges FCSC Hackropole.
+This repository contains the solutions used to solve the challenges from the FCSC Hackropole competitions.
 
-## 📂 Organisation du dépôt
+## 📂 Repository Structure
 
-- **challenges_fcsc-2020/** : Solutions pour les épreuves du FCSC Hackropole 2020.
-- **challenges_fcsc-2022/** : Solutions pour les épreuves du FCSC Hackropole 2022.
-- **challenges_fcsc-2023/** : Solutions pour les épreuves du FCSC Hackropole 2023.
-- **challenges_fcsc-2024/** : Solutions pour les épreuves du FCSC Hackropole 2024.
+- **challenges_fcsc-2020/** : Solutions for the 2020 FCSC Hackropole challenges.
+- **challenges_fcsc-2022/** : Solutions for the 2022 FCSC Hackropole challenges.
+- **challenges_fcsc-2023/** : Solutions for the 2023 FCSC Hackropole challenges.
+- **challenges_fcsc-2024/** : Solutions for the 2024 FCSC Hackropole challenges.
+  
+## 🚀 How to Use This Repository
 
-## 🚀 Comment utiliser ce dépôt
-
-**Clonage du dépôt** :
+**Clone the repository :**
    ```bash
    git clone https://github.com/Th1sma/Hackropole_solutions.git
    cd Hackropole_solutions/
